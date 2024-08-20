@@ -1,3 +1,3 @@
 # scoreboard
 
-The public page is [here](https://rao-dhruv.github.io/scoreboard/)
+The public page is [here](https://rao-dhruv.github.io/scoreboard/src/score.html)
